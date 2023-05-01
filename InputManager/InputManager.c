@@ -505,6 +505,11 @@ int getIntFromKayboard(const char* Massege)
 	return stringToInt(string);
 }
 
+void main()
+{
+
+}
+
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
 // Отладка программы: F5 или меню "Отладка" > "Запустить отладку"
 

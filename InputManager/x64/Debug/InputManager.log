@@ -1,2 +1,4 @@
-﻿  Source.c
+﻿  InputManager.c
+D:\Bibs\InputManager\InputManager\InputManager.c(353,72): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
+D:\Bibs\InputManager\InputManager\InputManager.c(362,86): warning C4244: функция: преобразование "int" в "float", возможна потеря данных
   InputManager.vcxproj -> D:\Bibs\InputManager\x64\Debug\InputManager.exe
