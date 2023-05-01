@@ -1,1 +1,1 @@
-msbuild InputManager\InputManager.vcxproj
+msbuild InputManagerC\InputManager\InputManager.vcxproj
